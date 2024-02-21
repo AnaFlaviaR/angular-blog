@@ -1,12 +1,12 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: #111111;
+    background-color: #04042c;
     color: white;
     font-family: 'Segoe UI';
 }
 
-a{
+a {
     text-decoration: none;
 }
